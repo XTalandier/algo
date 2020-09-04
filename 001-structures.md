@@ -62,4 +62,12 @@ while (condition) {
 ```
 
 
+# Exercice
+
+Faire un jeu de la vie:
+
+[https://fr.wikipedia.org/wiki/Jeu_de_la_vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)
+
+
+
 
