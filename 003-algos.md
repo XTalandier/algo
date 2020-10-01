@@ -3,7 +3,7 @@
 ## Trier un tableau
 
 ### Introduction
-Soit un tableau de nombre généré aléatoirement, il faut trier ce tableau du plus petit au plus grand.
+Soit un tableau de nombres générés aléatoirement, il faut trier ce tableau du plus petit au plus grand.
 
 
 ### Tri à bulles
