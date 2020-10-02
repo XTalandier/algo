@@ -119,7 +119,7 @@ show_tab(tab1)
 
 ### 3) Appliquer l'algorithme
 
-Exécuter 2x cette algorithme
+Exécuter 2x cet algorithme
 
 ```
 POUR CHAQUE cel DE cellules
