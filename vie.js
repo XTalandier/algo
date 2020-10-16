@@ -1,3 +1,5 @@
+// Xavier Talandier <xavier.talandier@gep-by-ccimp.com>
+
 const size = 20;
 const cells = 100;
 const world = [];
