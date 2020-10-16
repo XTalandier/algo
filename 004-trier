@@ -1,0 +1,10 @@
+1.	Soit une liste de nombre nommée TBL  [3, 9, 1, 4, 0, 12]
+2.	Pour chaque élément de TBL noté X de la liste
+3.	On vérifie pour tous les autres éléments Y de TBL
+a.	SI X < Y
+i.	On permute X et Y
+
+var TBL = [3, 9, 1, 4, 0, 12];
+for(var i = 0 ; i < TBL.length; i++){
+	var X = TBL[i]; // i = 0
+}
