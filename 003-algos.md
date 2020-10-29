@@ -15,7 +15,7 @@ Si c'est le cas, permuter les 2 éléments et recommencer
 ## Calculer π
 
 ## Introduction
-
+    
 Pi peut être calculé grace à la Formule de Leibniz.
 
 ![Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/aed527744cddd667d7f52e5100b2a0bfb627e208)
