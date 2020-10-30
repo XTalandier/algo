@@ -1,5 +1,7 @@
 # Évaluation SLAM // Algorithmie
 
+Durée: 2h
+
 ## Exercice  /10
 Fichier à rendre : ``trie.js``
 
@@ -84,5 +86,6 @@ Fichier à rendre : ``matrice2.js``
 Faire la somme de 2 matrices 3x3
 
 
+Envoyer un zip avec les 3 fichiers à cette adresse: ``xavier.talandier@gep-by-ccimp.com``
 
 
